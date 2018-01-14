@@ -252,6 +252,9 @@ input[type=submit] {
   .sidebar {
     width: 35%;
   }
+  .work {
+    width: 425px;
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -271,7 +274,7 @@ input[type=submit] {
     max-width: 100%;
   }
   .work {
-    width: 250px;
+    width: 225px;
   
 }
 
